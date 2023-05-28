@@ -1,0 +1,15 @@
+let n1 = 5;
+let n2 = 7;
+let n3 = 9;
+let prom1 = (n1 + n2 + n3) / 3;
+console.log(prom1);
+let n4 = -2;
+let n5 = -3;
+let n6 = -8;
+let prom2 = (n4 + n5 + n6) / 3;
+console.log(prom2);
+let n7 = -1.2;
+let n8 = 5.3;
+let n9 = -3.3;
+let prom3 = (n7 + n8 + n9) / 3;
+console.log(prom3);
